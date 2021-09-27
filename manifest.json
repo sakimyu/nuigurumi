@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "ぬいぐるみ",
+        "name": "ぬいぐるみ",
+        "uuid": "5301ca77-c855-4447-9280-64e606c2c35b",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 17, 10 ]
+    },
+    "modules": [
+        {
+            "description": "ぬいぐるみ",
+            "type": "resources",
+            "uuid": "2a46c287-cb62-409e-8ecf-9ef94d819d10",
+            "version": [0, 0, 1]
+        }
+    ]
+}
